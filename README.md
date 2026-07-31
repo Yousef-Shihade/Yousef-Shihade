@@ -30,4 +30,4 @@ I'm particularly drawn to **Machine Learning**, **Computer Vision**, and **Data 
 
 ### 📊 GitHub Stats
 
-![Yousef's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yousef-Shihade&show_icons=true&theme=radical)
+![Yousef's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yousef-Shihade&show_icons=true&theme=radical&cache_seconds=1800)
