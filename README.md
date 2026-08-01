@@ -1,7 +1,7 @@
 ### I'm Yousef 👋
 
 🎓 Final-year B.Sc. Data Science student at the University of Haifa, currently interning at **BellBoy Robotics** working on automated visual inspection using **Computer Vision** and **Vision-Language AI** systems.
-I'm particularly drawn to **Machine Learning**, **Computer Vision**, and **Data Engineering**. I enjoy building end-to-end pipelines and diving deep into complex problems, continuously learning to stay at the forefront of the field.
+I'm particularly drawn to **Machine Learning**, **Computer Vision**, and **Data Engineering**. 🔍 I enjoy building end-to-end pipelines and diving deep into complex problems, continuously learning to stay at the forefront of the field.
 
 ### 🛠 Coding Languages & Tools
 
@@ -30,4 +30,4 @@ I'm particularly drawn to **Machine Learning**, **Computer Vision**, and **Data 
 
 ### 📊 GitHub Stats
 
-![Yousef's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yousef-Shihade&show_icons=true&theme=radical&cache_seconds=1800)
+![Yousef's GitHub stats](./metrics.svg)
