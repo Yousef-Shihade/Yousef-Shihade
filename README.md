@@ -28,6 +28,10 @@ I'm particularly drawn to **Machine Learning**, **Computer Vision**, and **Data 
 
 🎮 Gaming &nbsp;•&nbsp; 🎬 Movies &nbsp;•&nbsp; ⚽ Football &nbsp;•&nbsp; 🥊 MMA &nbsp;•&nbsp; 🏎 F1 &nbsp;•&nbsp; 🏋️ Gym
 
-### 📊 GitHub Stats
+<details>
+<summary>📊 <b>GitHub Stats</b> (click to expand)</summary>
+<br>
 
 ![Yousef's GitHub stats](./metrics.svg)
+
+</details>
