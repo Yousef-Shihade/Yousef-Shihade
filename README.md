@@ -21,7 +21,7 @@ I'm particularly drawn to **Machine Learning**, **Computer Vision**, and **Data 
 
 ### 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousef-shihade-b39570358/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousefshihade/)
 [![Letterboxd](https://img.shields.io/badge/Letterboxd-00E054?style=for-the-badge&logo=letterboxd&logoColor=white)](https://letterboxd.com/YousefSh02/)
 
 ### 🎯 Hobbies & Interests
