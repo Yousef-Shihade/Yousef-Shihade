@@ -1,7 +1,7 @@
 ### I'm Yousef 👋
 
-🎓 Final year B.Sc. Data Science student at the University of Haifa, currently interning at **BellBoy Robotics** working on automated visual inspection using **Computer Vision** and **Vision-Language AI** systems.
-I'm particularly drawn to **Machine Learning**, **Computer Vision**, and **Data Engineering**. 🔍 I enjoy building end-to-end pipelines and diving deep into complex problems, continuously learning to stay at the forefront of the field.
+🎓 Final-year B.Sc. Data Science student at the University of Haifa, currently interning at [**BellBoy Robotics**](https://bellboy.co/) working on automated visual inspection using **Computer Vision** and **Vision-Language AI** systems.
+I'm particularly drawn to **Machine Learning**, **Computer Vision**, and **Data Engineering**. 🔍 I enjoy building end-to-end pipelines and diving deep into complex problems — continuously learning to stay at the forefront of the field.
 
 ### 🛠 Coding Languages & Tools
 
@@ -21,7 +21,7 @@ I'm particularly drawn to **Machine Learning**, **Computer Vision**, and **Data 
 
 ### 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousefshihade/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousef-shihade-b39570358/)
 [![Letterboxd](https://img.shields.io/badge/Letterboxd-00E054?style=for-the-badge&logo=letterboxd&logoColor=white)](https://letterboxd.com/YousefSh02/)
 
 ### 🎯 Hobbies & Interests
